@@ -9,7 +9,7 @@ EPubReader阅读器：Libraries里的EPubReader为Epub的解析部分，其它�
 
 * **EPubBook**为EPub书籍解析类，读取EPub书籍，解析相关信息。
 
-* **EPub**存储相关章节信息，相关信息在解析时写入。
+* **EPubChapter**存储相关章节信息，相关信息在解析时写入。
 
 * **EPubBookmark**为书签信息，由EPubBookmarkManager来管理。
 
@@ -21,7 +21,7 @@ EPubReader阅读器：Libraries里的EPubReader为Epub的解析部分，其它�
 
 * **/Libraries**里的/EPubReader为Epub的解析部分,（Category、FMDB、TouchXML、ZipArchive等）为支持的类库。
 
-* /**EPubReader**为写的Demo，Demo为基于StoryBoard。
+* **/EPubReader**为写的Demo，Demo为基于StoryBoard。
 
 ---
 
@@ -37,6 +37,5 @@ EPubReader阅读器：Libraries里的EPubReader为Epub的解析部分，其它�
 	2.整本书加载阅读，替换为每次只加载单章。 
 	3.其它更多功能。
 
-Require：iOS 5.0
 
-
+Required:iOS 5.0
