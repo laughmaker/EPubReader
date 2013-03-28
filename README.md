@@ -20,7 +20,7 @@ EPubReader阅读器
 
 * **/Libraries**里的/EPubReader为Epub的解析部分,（Category、FMDB、TouchXML、ZipArchive等）为支持的类库。
 
-* /**EPubReader**为写的Demo，Demo为基于StoryBoard。
+* **/EPubReader**为写的Demo，Demo为基于StoryBoard。
 
 ---
 
@@ -36,4 +36,4 @@ EPubReader阅读器
 	2.整本书加载阅读，替换为每次只加载单章。 
 	3.其它更多功能。
 
-Require:IOS5.0
+Required:IOS5.0
